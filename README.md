@@ -7,7 +7,8 @@
 CPU: I5 6200U<br>
 内存：4G <br>
 SATA：240固态<br>
-集成显卡：HD520
+集成显卡：HD520<br>
+以太网：RTL8111<br>
 WIFI：inter 3160<br>
 蓝牙：inter<br>
 声卡：ALC255，补layout id: 3<br>
