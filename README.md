@@ -1,0 +1,1 @@
+# Dell-3000-14-3459-OpenCore-big-sur-11.6
