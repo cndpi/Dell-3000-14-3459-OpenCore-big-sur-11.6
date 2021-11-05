@@ -4,10 +4,11 @@
 
 修复双系统win764启动正常不蓝屏和USB问题，主要是GUPC补丁引起的。。删除所有GUPC to XUPC，就可以了。增加inter原生WIFI和蓝牙kext。
 
-CPU: I5 6200U
-内存：4G
-SATA：240固态
-WIFI：inter 3160
-蓝牙：inter
-声卡：ALC255，补layout id: 3
-模拟机型：Macbook pro 13，1
+CPU: I5 6200U<br>
+内存：4G <br>
+SATA：240固态<br>
+集成显卡：HD520
+WIFI：inter 3160<br>
+蓝牙：inter<br>
+声卡：ALC255，补layout id: 3<br>
+模拟机型：Macbook pro 13，1<br>
